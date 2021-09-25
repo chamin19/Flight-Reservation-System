@@ -6,7 +6,7 @@ This assignment combines topics learned in an introductory course to Java Progra
     * Lists all departing flights. Includes the name of the airline, flight number, destination, departure time, duration, and status.
     * This command must be called prior to booking any reservations. 
      
-      ![list](https://github.com/hanmin19/Flight-Reservation-System/blob/main/demo_img/list.jpg)
+      ![list](/demo_img/list.jpg)
   
 * SEATS
     * Displays the seat arrangment of the specified flight. 
@@ -14,27 +14,27 @@ This assignment combines topics learned in an introductory course to Java Progra
     * Occupied seats are displayed as "XX".
     * This command must be called prior to booking any reservations. 
     
-      ![seats](https://github.com/hanmin19/Flight-Reservation-System/blob/main/demo_img/seats.jpg)
+      ![seats](/demo_img/seats.jpg)
   
 * RES
     * Reserves an economy or long haul flight.
     
-      ![res](https://github.com/hanmin19/Flight-Reservation-System/blob/main/demo_img/res.jpg)
+      ![res](/demo_img/res.jpg)
   
 * CANCEL
     * Cancels a reservation for the flightnum if it exists in the system.
     
-      ![cancel](https://github.com/hanmin19/Flight-Reservation-System/blob/main/demo_img/cancel.jpg)
+      ![cancel](/demo_img/cancel.jpg)
   
 * MYRES
     * Prints all reservations in the system. 
     
-      ![myres](https://github.com/hanmin19/Flight-Reservation-System/blob/main/demo_img/myres.jpg)
+      ![myres](/demo_img/myres.jpg)
   
 * PASMAN
     * Displays all passengers for a specified flight and their seat/passport number.
     
-      ![pasman](https://github.com/hanmin19/Flight-Reservation-System/blob/main/demo_img/pasman.jpg)
+      ![pasman](/demo_img/pasman.jpg)
   
 * QUIT
     * Stops the program from running in the command-line. 
